@@ -1,0 +1,24 @@
+body{
+    background:yellow
+}
+h1{
+    text-transform:uppercase;
+    font-size:4rem;
+}
+
+
+.APJ{
+    
+    text-align:center;
+    font-family: "Kablammo", system-ui;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+
+.kalam{
+    height:300px;
+    border:5px solid black;
+
+}
